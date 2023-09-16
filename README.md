@@ -3,18 +3,8 @@
 
 **Paper:** [NESS: Node Embeddings from Static Subgraphs](https://arxiv.org/pdf/2303.08958.pdf)
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/ness-learning-node-embeddings-from-static/link-prediction-on-cora)](https://paperswithcode.com/sota/link-prediction-on-cora?p=ness-learning-node-embeddings-from-static) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/ness-learning-node-embeddings-from-static/link-prediction-on-citeseer)](https://paperswithcode.com/sota/link-prediction-on-citeseer?p=ness-learning-node-embeddings-from-static) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/ness-learning-node-embeddings-from-static/link-prediction-on-pubmed)](https://paperswithcode.com/sota/link-prediction-on-pubmed?p=ness-learning-node-embeddings-from-static)
-
 
 # Table of Contents:
-
-1. [Model](#model)
-2. [Datasets](#datasets)
-3. [Environment](#environment)
-4. [Configuration](#configuration)
-5. [Training](#training)
-6. [Results](#results)
-7. [Citing this repo](#citing-this-repo)
 
 
 # Model
@@ -79,15 +69,4 @@ results
 </pre>
 
 
-# Citing this repo
-If you use this work in your own studies, and work, you can cite it by using the following:
 
-```
-@Misc{talip_ucar_2023_NESS,
-  author =   {Talip Ucar},
-  title =    {{Pytorch implementation of "NESS: Node Embeddings from Static Subgraphs"}},
-  howpublished = {\url{https://github.com/AstraZeneca/NESS}},
-  month        = May,
-  year = {since 2023}
-}
-```
